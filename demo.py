@@ -6,3 +6,11 @@
 
 print('13134645')
 print('这是全世界')
+
+
+def demo():
+    if 1==2:
+        print('zheshijiade')
+    else:
+        print('zheshizhende')
+demo()
