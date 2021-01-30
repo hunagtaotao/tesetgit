@@ -1,3 +1,3 @@
 # tesetgit
 
-version 6.0
+version 5.0
